@@ -25,6 +25,9 @@ Python is one of the biggest and most popular languages on the planet due to it'
     1. Depth Limited Search
     1. A* Search
 1. Neural Networks
+    1. What are Neural Networks
 1. Deep Learning / Machine Learning
-1. Recommender Systems 
+    1. What is Machine Learning
+1. Recommender Systems
+    1. What are Recommender Systems
 1. Summary
