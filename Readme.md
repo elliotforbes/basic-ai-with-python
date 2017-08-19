@@ -19,6 +19,12 @@ Python is one of the biggest and most popular languages on the planet due to it'
     1. Intelligent Agents
     1. 
 1. Graph Theory
+    1. Different Types of Graphs
+    1. Breadth First Search
+    1. Depth First Search
+    1. Depth Limited Search
+    1. A* Search
 1. Neural Networks
-1. Deep Learning
+1. Deep Learning / Machine Learning
+1. Recommender Systems 
 1. Summary
